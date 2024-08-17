@@ -11,7 +11,7 @@
 
 [Wiki](https://github.com/Sollace/Unicopia/wiki)
 
-Trayendo la magia de amistad a Minecraft!
+Trayendo la magia de la amistad a Minecraft!
 
 Lo que empezó como un humilde utilidad para hacer jugando como un Unicornio un poco más inmersivo creció en un entero experiencia de conversión a Pony
 que trae nuevas mecánicas, magia y experiencia al mundo de Minecraft, ¡para que realmente sientes que entraste al mundo de Equestria!
